@@ -2,7 +2,7 @@
 ***********
 # 1-why the output of this Equation = $30.00?
 X + Y equals 30.
-The :C is a Currency Format Specifier. It tells C# to display the number as a currency value.
+* The :C is a Currency Format Specifier. It tells C# to display the number as a currency value.
 
 # 2-what is its benefit?
 The benefit of Standard Numeric Format Specifiers is that they allow us to display numeric values in a clear and suitable format for the user without changing the actual value.
