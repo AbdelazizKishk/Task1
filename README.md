@@ -15,17 +15,17 @@ They are useful for:
 - Displaying percentages.
 
 - For example:
-  double price = 1234567.5;
-Console.WriteLine($"{price:N2}");
-output==> 1,234,567.50
+  * double price = 1234567.5;
+* Console.WriteLine($"{price:N2}");
+* output==> 1,234,567.50
 
 # 3-try another example with a different specifier with a screenshot of the output.
 
-double number = 1234567.5;
-Console.WriteLine($"Number: {number:N2}");
-output==> Number: 1,234,567.50
+* double number = 1234567.5;
+* Console.WriteLine($"Number: {number:N2}");
+* output==> Number: 1,234,567.50
 
 ------------------------- ملخص بسيط ---------------------------
-:C   → Currency
-:N2  → Number with 2 decimal places
-:N3  → Number with 3 decimal places
+* :C   → Currency
+* :N2  → Number with 2 decimal places
+* :N3  → Number with 3 decimal places
